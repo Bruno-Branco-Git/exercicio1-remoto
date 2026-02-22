@@ -1,3 +1,4 @@
 conteudo inincial de teste1
 nova funcionalidade adicionada a teste1
 nova funcionalidade adicionada a teste1
+teste
